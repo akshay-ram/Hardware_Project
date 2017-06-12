@@ -2,8 +2,8 @@ body
 {
 	background-image: url("../Hardware_Pictures/computer_background.jpg");
 	background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
+    	background-repeat: no-repeat;
+    	background-size: cover;
 }
 h1
 {
@@ -32,10 +32,10 @@ div.position
 {
 	position: fixed;
 	padding-top: 0px;  
-    padding-bottom: 0px;  
-    padding-right: 38px;  
-    padding-left: 38px;  
-    border: 3px solid; 
+    	padding-bottom: 0px;  
+    	padding-right: 38px;  
+    	padding-left: 38px;  
+    	border: 3px solid; 
 	border-color: white;
 	margin-top: -97px;
 	margin-bottom: 100px;
@@ -45,10 +45,10 @@ div.position
 div.box
 {
 	padding-top: 10px;  
-    padding-bottom: 10px;  
-    padding-right: 10px;  
-    padding-left: 30px;  
-    border: 3px solid; 
+    	padding-bottom: 10px;  
+    	padding-right: 10px;  
+   	padding-left: 30px;  
+    	border: 3px solid; 
 	border-color: white;
 	margin-left: 300px;
 	margin-right: 50px;
@@ -58,10 +58,10 @@ div.box
 div.box2
 {
 	padding-top: 5px;  
-    padding-bottom: 30px;  
-    padding-right: 10px;  
-    padding-left: 30px;  
-    border: 3px solid; 
+    	padding-bottom: 30px;  
+    	padding-right: 10px;  
+    	padding-left: 30px;  
+    	border: 3px solid; 
 	border-color: white;
 	margin-top: 30px;
 	margin-left: 50px;
@@ -72,9 +72,9 @@ div.box2
 div.titlebox
 {
 	padding-top: 5px;  
-    padding-bottom: 5px;  
-    padding-right: 5px;  
-    padding-left: 5px;
+    	padding-bottom: 5px;  
+    	padding-right: 5px;  
+    	padding-left: 5px;
 	margin-left: 10px;
 	margin-right: 10px;
 	border: 3px solid; 
@@ -84,9 +84,9 @@ div.titlebox
 div.namesbox
 {
 	padding-top: 5px;  
-    padding-bottom: 5px;  
-    padding-right: 5px;  
-    padding-left: 5px;
+    	padding-bottom: 5px;  
+    	padding-right: 5px;  
+    	padding-left: 5px;
 	margin-left: 300px;
 	margin-right: 50px;
 	border: 3px solid; 
@@ -137,8 +137,8 @@ div.namesbox
 .html_validator
 {
 	display: block;
-    margin-left: auto;
-    margin-right: auto; 
+    	margin-left: auto;
+    	margin-right: auto; 
 }
 .image1
 {
@@ -163,20 +163,20 @@ div.namesbox
 
 /*unvisited link*/
 a:link {
-    color: white;
+    	color: white;
 }
 
 /* visited link */
 a:visited {
-    color: white;
+    	color: white;
 }
 
 /* mouse over link */
 a:hover {
-    color: white;
+    	color: white;
 }
 
 /* selected link */
 a:active {
-    color: white;
+    	color: white;
 }
