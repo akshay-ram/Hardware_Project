@@ -1,0 +1,157 @@
+body
+{
+	background-image: url("../Hardware_Pictures/computer_background.jpg");
+	background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1
+{
+	font-size: 50px;
+	font-family: Algerian, sans-serif;
+	color: white;
+	text-align: center;
+}
+#indent
+{
+	text-indent: 220px;
+	font-size: 35px;
+}
+p, ul, li
+{
+	font-family: verdana, sans-serif;
+	font-size: 14px;	
+	color: white;
+}
+h2
+{
+	font-family: verdana, sans-serif;
+	font-size: 20px;
+	color: #fff8e7;
+}
+div.position
+{
+	position: fixed;
+	padding-top: 5px;  
+    padding-bottom: 5px;  
+    padding-right: 10px;  
+    padding-left: 10px;  
+    border: 3px solid; 
+	border-color: white;
+	margin-top: -60px;
+	margin-bottom: 100px;
+	background-color: black;
+}
+div.box
+{
+	padding-top: 5px;  
+    padding-bottom: 30px;  
+    padding-right: 10px;  
+    padding-left: 30px;  
+    border: 3px solid; 
+	border-color: white;
+	margin-left: 300px;
+	margin-right: 50px;
+	margin-bottom: 30px;
+	background-color: black;
+}
+div.box2
+{
+	padding-top: 5px;  
+    padding-bottom: 30px;  
+    padding-right: 10px;  
+    padding-left: 30px;  
+    border: 3px solid; 
+	border-color: white;
+	margin-top: 30px;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 30px;
+}
+.green
+{
+	font-family:  verdana, sans-serif;
+	color:#22ff00;
+}
+.blue
+{
+	font-family: verdana, sans-serif;
+	color:#24c1ff;
+}
+ 
+.red
+{
+	font-family: verdana, sans-serif;
+	color:#ff0033;
+}
+
+.green2
+{
+	font-family:  verdana, sans-serif;
+	color:#22ff00;
+}
+.red2
+{
+	font-family: verdana, sans-serif;
+	color:#ff0033;
+}	
+.blue2
+{
+	font-family: verdana, sans-serif;
+	color:#24c1ff;
+}
+#margin
+{
+	margin-bottom: 10px;
+}
+.font
+{
+	font-family: Elephant, Arial, sans-serif;
+	font-size: 20px;
+}
+.html_validator
+{
+	display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.image1
+{
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 20px;
+}
+.text1
+{
+	display: inline-block;
+}
+.image2
+{
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 20px;
+}
+.text2
+{
+	display: inline-block;
+}
+
+/*unvisited link*/
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: white;
+}
+
+/* selected link */
+a:active {
+    color: white;
+}
